@@ -1,0 +1,136 @@
+
+
+@font-face {
+    font-family: "Avenir";
+    src:url("../OSTEOAI/AvenirLTStd-Medium.otf");
+}
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+
+
+#img1 {	
+
+		text-align: center;
+		text-align: center;
+   margin-left: auto!important;
+   margin-right: auto!important;
+   width:25%!important;
+
+	}
+
+	#img2 {	
+
+		text-align: center;
+		text-align: center;
+   margin-left: auto!important;
+   margin-right: auto!important;
+   width:75%!important;
+
+	}
+
+
+#BETA {
+	text-align: center;
+	text-align: center;
+margin-left: auto!important;
+margin-right: auto!important;
+font-size: x-large;
+width:75%!important;
+
+
+}
+
+#discribe {
+	position: fixed;
+
+	text-align: center;
+	text-align: center;
+margin-left: auto!important;
+margin-right: auto!important;
+width:100%!important;
+
+}
+
+
+
+}
+@media screen and (min-width:600px) {
+
+    
+#img1 {	
+
+    text-align: center;
+    text-align: center;
+margin-left: auto!important;
+width:15%!important;
+margin-right: auto!important;
+
+}
+
+#img2 {	
+
+    text-align: center;
+    text-align: center;
+margin-left: auto!important;
+margin-right: auto!important;
+width: 75%!important;
+
+}
+
+
+#BETA {
+text-align: center;
+text-align: center;
+margin-left: auto!important;
+margin-right: auto!important;
+font-size: x-large;
+width:75%!important;
+
+}
+
+#discribe {
+text-align: center;
+text-align: center;
+margin-left: auto!important;
+margin-right: auto!important;
+width:100%!important;
+}
+
+
+}
+
+@media screen and (max-width:600px) {
+	
+	.bottompic 
+	 {
+		 width: 50%;
+	  float: right;
+	  display: block;
+	}
+  }
+  
+  @media screen and (max-width:600px) {
+	
+	.bottompic {
+	  position: absolute;
+	  right:0;
+	  bottom:0;
+	  width: 80%;
+
+	}
+	
+  }
+
+  @media screen and (min-width:100px){
+	#discribe {
+		position: fixed;
+		display: block;
+		bottom: 400px;
+	}
+
+}
