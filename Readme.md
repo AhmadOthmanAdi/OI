@@ -1,1 +1,1 @@
-This is Osteoai.com On Nadroid
+This is Osteoai.com On Android
